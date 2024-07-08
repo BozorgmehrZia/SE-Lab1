@@ -1,0 +1,47 @@
+#bsm{
+    float: right;
+    margin-right: 100px;
+    margin-top: 20px;
+}
+#shrf{
+    margin-left: 100px;
+    margin-top: 40px;
+}
+nav>p{
+    float: right;
+    margin-left: 100px;
+    margin-right: 160px;
+    font-family: B titr;
+    font-weight: bold;
+    font-size: 40px;
+    background-color:blue;
+    padding: 0px 12px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+section{
+    float: right;
+    clear: right;
+    font-family: B nazanin;
+    margin-right: 270px;
+    text-align: center;
+}
+#nm{
+    font-size: 50px;
+    font-weight: bolder;
+    color: purple;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.moarrefi{
+    font-size: 30px;
+    margin-top: 0px;
+}
+aside{
+    margin-left: 250px;
+    margin-top: 0px;
+    padding-top: 0px;
+    top: 5px;
+}
